@@ -11,7 +11,7 @@ import SwiftUI
 struct Swiftui_Continue_LearningApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LongPanGestureBootcamp()
         }
     }
 }
