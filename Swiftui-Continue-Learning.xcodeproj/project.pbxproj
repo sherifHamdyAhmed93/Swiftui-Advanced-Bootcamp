@@ -13,6 +13,9 @@
 		FA6B71012B499B1700AA4146 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA6B71002B499B1700AA4146 /* Assets.xcassets */; };
 		FA6B71042B499B1700AA4146 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA6B71032B499B1700AA4146 /* Preview Assets.xcassets */; };
 		FA6B710B2B499F1F00AA4146 /* LongPanGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA6B710A2B499F1F00AA4146 /* LongPanGestureBootcamp.swift */; };
+		FAF22E2B2B4DFB440075FDC0 /* DragGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF22E2A2B4DFB440075FDC0 /* DragGestureBootcamp.swift */; };
+		FAF22E2D2B4DFB510075FDC0 /* DragGestureBootcamp2.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF22E2C2B4DFB510075FDC0 /* DragGestureBootcamp2.swift */; };
+		FAF22E2F2B4DFCB90075FDC0 /* DragGestureBootcamp3.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF22E2E2B4DFCB90075FDC0 /* DragGestureBootcamp3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +26,9 @@
 		FA6B71002B499B1700AA4146 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA6B71032B499B1700AA4146 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		FA6B710A2B499F1F00AA4146 /* LongPanGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPanGestureBootcamp.swift; sourceTree = "<group>"; };
+		FAF22E2A2B4DFB440075FDC0 /* DragGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp.swift; sourceTree = "<group>"; };
+		FAF22E2C2B4DFB510075FDC0 /* DragGestureBootcamp2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp2.swift; sourceTree = "<group>"; };
+		FAF22E2E2B4DFCB90075FDC0 /* DragGestureBootcamp3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +65,9 @@
 				FA6B710A2B499F1F00AA4146 /* LongPanGestureBootcamp.swift */,
 				FA46A28C2B4AEAFB000895EE /* MagnificationGestureBootcamp.swift */,
 				FA46A28E2B4AF329000895EE /* RotationGestureBootcamp.swift */,
+				FAF22E2A2B4DFB440075FDC0 /* DragGestureBootcamp.swift */,
+				FAF22E2C2B4DFB510075FDC0 /* DragGestureBootcamp2.swift */,
+				FAF22E2E2B4DFCB90075FDC0 /* DragGestureBootcamp3.swift */,
 				FA6B71002B499B1700AA4146 /* Assets.xcassets */,
 				FA6B71022B499B1700AA4146 /* Preview Content */,
 			);
@@ -146,7 +155,10 @@
 				FA46A28F2B4AF329000895EE /* RotationGestureBootcamp.swift in Sources */,
 				FA46A28D2B4AEAFB000895EE /* MagnificationGestureBootcamp.swift in Sources */,
 				FA6B70FD2B499B1500AA4146 /* Swiftui_Continue_LearningApp.swift in Sources */,
+				FAF22E2F2B4DFCB90075FDC0 /* DragGestureBootcamp3.swift in Sources */,
+				FAF22E2D2B4DFB510075FDC0 /* DragGestureBootcamp2.swift in Sources */,
 				FA6B710B2B499F1F00AA4146 /* LongPanGestureBootcamp.swift in Sources */,
+				FAF22E2B2B4DFB440075FDC0 /* DragGestureBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
